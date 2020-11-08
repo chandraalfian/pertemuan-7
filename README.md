@@ -5,7 +5,7 @@
 ## Tugas Melengkapi Pertemuan 7
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
-| Muhammad Rizky Abdillah | TI.A2.20 | 312010386 | Bahasa Pemrograman |
+| Ahmad Alfian Chandra | TI.A2.20 | 312010336 | Bahasa Pemrograman |
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
@@ -16,7 +16,7 @@
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
-![output 1](gambar/tugas%201.PNG)
+![output 1](gambar/tugas%201.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](latihan1.py)
 
@@ -58,7 +58,7 @@ print()
 
 Maka program yang di hasil seperti berikut
 
-![hasil ke1](gambar/hasil1.png)
+![hasil ke1](Gambar/hasil1.png)
 
 
 ### Latihan 2
@@ -69,7 +69,7 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](gambar/tugas%202.PNG)
+![output 2](Gambar/tugas%202.PNG)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](latihan2.py)
 
@@ -112,5 +112,4 @@ angkaDec = random.uniform(0, 0.5)
 
 Maka program yang dihasilkan akan seperti berikut
 
-![tampil 2](gambar/hasil2.png)
-# pertemuan-7
+![tampil 2](Gambar/hasil2.png)
